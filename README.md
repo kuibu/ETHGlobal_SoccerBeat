@@ -1,2 +1,2 @@
 # ETHGlobal_SoccerBeat
-Our projects in the ETHGlobal competition . The members are mainly kuibu ,linglongguzi
+Our music  game in the Hackathon ETHSanFranciscoNovember 4—6, 2022. The members are mainly kuibu , linglongguzi
